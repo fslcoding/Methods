@@ -31,7 +31,7 @@ All of your code will go inside the ```{ }```
 To call the code, follow this template:
 
 ```csharp
-Name( );
+Name();
 ```
 
 _N.B. When creating methods, they **must** be outside the main method, **but** inside the class._
