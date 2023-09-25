@@ -31,7 +31,7 @@ All of your code will go inside the ```{ }```
 To call the code, follow this template:
 
 ```csharp
-Name();
+Name( );
 ```
 
 _N.B. When creating methods, they **must** be outside the main method, **but** inside the class._
@@ -45,6 +45,9 @@ _N.B. When creating methods, they **must** be outside the main method, **but** i
     void Square() { }
 
 </details>
+
+
+_For revision material on `Intro to methods`, click [here](https://github.com/fslcoding/Methods/blob/main/RevisionMaterial/Docs/IntroToMethods.md)_
 
 ### Method return types
 
@@ -78,6 +81,8 @@ In the above code, we take the returned value from the ```Square()``` method, an
 
 </details>
 
+
+_For revision material on `Intro to return types`, click [here](https://github.com/fslcoding/Methods/blob/main/RevisionMaterial/Docs/IntroToReturnTypes.md)_
 
 ### Parameters
 
@@ -140,6 +145,8 @@ void DisplayUserDetails(string name, int age) {
     Your name is Joshua and your age is 17
 
 </details>
+
+_For revision material on `Intro to parameters`, click [here](https://github.com/fslcoding/Methods/blob/main/RevisionMaterial/Docs/IntroToParameters.md)_
 
 
 ## Useful links
