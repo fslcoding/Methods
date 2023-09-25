@@ -4,7 +4,7 @@
        int NumberResult = Square(MyNumber);
     }
 
-    int Square(int number) {
+    static int Square(int number) {
         return number * number;
     }
 
