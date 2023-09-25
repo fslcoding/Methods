@@ -3,7 +3,6 @@ using System;
 class IntroToReturnTypes {
   public static void Run(string[] args) 
   {
-    //This example will show you how to use methods with return types
     Console.WriteLine ("Methods with return types");
     int num1, num2;
 
@@ -19,11 +18,6 @@ class IntroToReturnTypes {
 
   static int addition(int num1, int num2)
   {
-    int sum = 0;
-
-    sum = num1 + num2;
-
-    return sum;
-
+    return num1 + num2;
   }
 }

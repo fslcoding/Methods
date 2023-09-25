@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P4Rlcm6eUpdYLz+AUUbDC5sd/O1ec0q0oFlQdU4ItCKaxa7d88LdWhH/V6sRPSeibBOfi2qRqYa7B3Q54SgGFw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\elliot alderson\\Documents\\GitHub\\Methods\\Methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elliot alderson\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\elliot alderson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\elliot alderson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\elliot alderson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
